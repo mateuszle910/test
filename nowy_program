@@ -1,0 +1,22 @@
+
+
+def funkcja():
+        return 'Geralt'
+
+
+f = funkcja()
+print(f)
+
+x ='heja'
+
+x ='siema'
+
+print(x)  #Zawsze wyswietla ostatnia z zadeklarowanych
+
+# Komentarz
+
+
+text = open('xd.txt').read()
+
+
+print(text)
